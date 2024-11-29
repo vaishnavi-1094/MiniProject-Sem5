@@ -1,0 +1,75 @@
+{
+    "institute_summary": {
+        "institute_code": "05244",
+        "institute_name": "MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik",
+        "institute_address": "Bhujbal Knowledge City, Adgaon ,Nashik 422003",
+        "region": "Nashik",
+        "district": "Nashik",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0524425710",
+            "course_name": "Computer Science and Design",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0524425711T",
+            "course_name": "Computer Science and Design",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0524491610",
+            "course_name": "Automation and Robotics",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0524491611T",
+            "course_name": "Automation and Robotics",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0524492210",
+            "course_name": "Civil and Environmental Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        }
+    ]
+}

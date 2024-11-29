@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "3214",
+        "institute_name": "Xavier Institute Of Engineering C/O Xavier Technical Institute,Mahim,Mumbai",
+        "institute_address": "Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim(W), Mumbai",
+        "region": "Mumbai",
+        "district": "Mumbai City",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Religious Minority - Christian",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "321424510",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "321424511T",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "321424610",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "321424611T",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "321437210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "321437211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "321492010",
+            "course_name": "Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology)",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "321492011T",
+            "course_name": "Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology)",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "institute_summary": {
+        "institute_code": "3198",
+        "institute_name": "Konkan Gyanpeeth College of Engineering, Karjat",
+        "institute_address": "Vengaon Road, Dahivali, Karjat",
+        "region": "Mumbai",
+        "district": "Raigad",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "319824210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "319824211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "319824510",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "319824511T",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "319824610",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "319824611T",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "319861210",
+            "course_name": "Mechanical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "319899510",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "319899511T",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

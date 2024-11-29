@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "02008",
+        "institute_name": "Government College of Engineering, Chhatrapati Sambhajinagar",
+        "institute_address": "Station Road, Osmanpura, CHHATRAPATISAMBHAJINAGAR",
+        "region": "Aurangabad",
+        "district": "Chhatrapati Sambhajinagar",
+        "status": "Government",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0200819110",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0200819111T",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0200824210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0200824211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0200824610",
+            "course_name": "Information Technology",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0200824611T",
+            "course_name": "Information Technology",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0200829310",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0200829311T",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0200837210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0200837211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0200861210",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0200861211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Government",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

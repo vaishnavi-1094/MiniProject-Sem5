@@ -1,0 +1,135 @@
+{
+    "institute_summary": {
+        "institute_code": "03193",
+        "institute_name": "Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",
+        "institute_address": "Sheel Kalyan Highway, Behind Venkatesh Petrolpump, Sonarpada, Manpada Post, Dombivali (E) Thane",
+        "region": "Mumbai",
+        "district": "Thane",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0319324510",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "90"
+        },
+        {
+            "choice_code": "0319324511T",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "5"
+        },
+        {
+            "choice_code": "0319324610",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "40"
+        },
+        {
+            "choice_code": "0319324611T",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "0319337210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0319337211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0319350710",
+            "course_name": "Chemical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0319361210",
+            "course_name": "Mechanical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0319392110",
+            "course_name": "Artificial Intelligence and Machine Learning",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0319392111T",
+            "course_name": "Artificial Intelligence and Machine Learning",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        }
+    ]
+}

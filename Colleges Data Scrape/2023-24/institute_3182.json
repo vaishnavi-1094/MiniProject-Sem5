@@ -1,0 +1,135 @@
+{
+    "institute_summary": {
+        "institute_code": "3182",
+        "institute_name": "Thadomal Shahani Engineering College, Bandra, Mumbai",
+        "institute_address": "37th Road, Off Linking Road, (Near National), Bandra (West), Mumbai",
+        "region": "Mumbai",
+        "district": "Mumbai Suburban",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Linguistic Minority - Sindhi",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "318224510",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "318224511T",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "318224610",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "318224611T",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "318237210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "318237211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "318250710",
+            "course_name": "Chemical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "318250711T",
+            "course_name": "Chemical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "318299510",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "318299511T",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Sindhi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "institute_summary": {
+        "institute_code": "1126",
+        "institute_name": "Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",
+        "institute_address": "Darapur, Taluka. Daryapur, Amravati",
+        "region": "Amravati",
+        "district": "Amravati",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "112619110",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112624210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112624211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "112629310",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112629311T",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "112637210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "112637211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "112661210",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "112661211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        }
+    ]
+}

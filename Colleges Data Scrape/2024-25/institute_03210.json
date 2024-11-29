@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "03210",
+        "institute_name": "Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",
+        "institute_address": "Mith bunder Road, Near Sadguru Gardens, Kopri, Thane (E)",
+        "region": "Mumbai",
+        "district": "Thane",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Linguistic Minority - Punjabi",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0321024510",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Punjabi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0321024511T",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Punjabi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0321024610",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Punjabi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0321024611T",
+            "course_name": "Information Technology",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Punjabi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0321037210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Punjabi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0321037211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Punjabi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

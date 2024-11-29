@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "06219",
+        "institute_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+        "institute_address": "Gut. No.58, Kegaon, Solapur Pune Highway, Nr Solapur University,Solapur",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0621919110",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "54"
+        },
+        {
+            "choice_code": "0621924210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0621929310",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0621937210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0621946110",
+            "course_name": "Bio Medical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "54"
+        },
+        {
+            "choice_code": "0621961210",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "54"
+        }
+    ]
+}

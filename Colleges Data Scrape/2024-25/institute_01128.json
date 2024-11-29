@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "01128",
+        "institute_name": "Prof Ram Meghe College of Engineering and Management, Badnera",
+        "institute_address": "New Express Highway, Badnera Dist. Amravati",
+        "region": "Amravati",
+        "district": "Amravati",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0112819110",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112819111T",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0112824210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0112824211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0112824610",
+            "course_name": "Information Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0112824611T",
+            "course_name": "Information Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0112829310",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112829311T",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0112837210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112837211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0112891210",
+            "course_name": "Computer Science and Engineering(Data Science)",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112891211T",
+            "course_name": "Computer Science and Engineering(Data Science)",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

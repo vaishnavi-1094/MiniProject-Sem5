@@ -1,0 +1,135 @@
+{
+    "institute_summary": {
+        "institute_code": "6643",
+        "institute_name": "S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur",
+        "institute_address": "At Post Korti,Pandharpur - Karad road, Tal-Pandharpur, Dist-Solapur",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "664319110",
+            "course_name": "Civil Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "664319111T",
+            "course_name": "Civil Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "664324210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "664324211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "664329310",
+            "course_name": "Electrical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "664329311T",
+            "course_name": "Electrical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "664337210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "664337211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "664361210",
+            "course_name": "Mechanical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "664361211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        }
+    ]
+}

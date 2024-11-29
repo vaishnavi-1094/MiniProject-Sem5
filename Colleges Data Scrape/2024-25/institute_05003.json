@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "05003",
+        "institute_name": "University Institute of Chemical Technology, North Maharashtra University, Jalgaon",
+        "institute_address": "P.B.No. 80, Umavinagar, Jalgaon",
+        "region": "Nashik",
+        "district": "Jalgaon",
+        "status": "University Department",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0500350310",
+            "course_name": "Food Technology",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0500350311T",
+            "course_name": "Food Technology",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "0500350710",
+            "course_name": "Chemical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0500350711T",
+            "course_name": "Chemical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0500350810",
+            "course_name": "Plastic Technology",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0500351810",
+            "course_name": "Oil Fats and Waxes Technology",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0500352310",
+            "course_name": "Paints Technology",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0500352311T",
+            "course_name": "Paints Technology",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "institute_summary": {
+        "institute_code": "05303",
+        "institute_name": "Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",
+        "institute_address": "At/Post Kashti, Tal Shrigonda, Dist. Ahmednagar",
+        "region": "Nashik",
+        "district": "Ahmednagar",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0530319110",
+            "course_name": "Civil Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0530324510",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0530324511T",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0530329310",
+            "course_name": "Electrical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0530361210",
+            "course_name": "Mechanical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0530384410",
+            "course_name": "Electronics and Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0530384411T",
+            "course_name": "Electronics and Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

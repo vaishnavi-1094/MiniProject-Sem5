@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "6839",
+        "institute_name": "Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",
+        "institute_address": "R.S.No.865, A-Ward Salunke Nagar, Kolhapur",
+        "region": "Pune",
+        "district": "Kolhapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "683919110",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "683919111T",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "683924210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "683924211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "683929310",
+            "course_name": "Electrical Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "683929311T",
+            "course_name": "Electrical Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "683991210",
+            "course_name": "Computer Science and Engineering(Data Science)",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "683991211T",
+            "course_name": "Computer Science and Engineering(Data Science)",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

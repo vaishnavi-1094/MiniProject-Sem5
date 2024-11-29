@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "03014",
+        "institute_name": "Sardar Patel College of Engineering, Andheri",
+        "institute_address": "Munshi Nagar, Andheri (West), Mumbai - Suburban ,Mumbai",
+        "region": "Mumbai",
+        "district": "Mumbai Suburban",
+        "status": "Government-Aided",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0301419110",
+            "course_name": "Civil Engineering",
+            "university": "Mumbai University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0301419111T",
+            "course_name": "Civil Engineering",
+            "university": "Mumbai University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0301429310",
+            "course_name": "Electrical Engineering",
+            "university": "Mumbai University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0301429311T",
+            "course_name": "Electrical Engineering",
+            "university": "Mumbai University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0301461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Mumbai University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0301461211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Mumbai University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

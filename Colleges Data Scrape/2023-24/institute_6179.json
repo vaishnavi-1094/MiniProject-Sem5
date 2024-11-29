@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "6179",
+        "institute_name": "Indira College of Engineering & Management, Pune",
+        "institute_address": "Survey No.64,65,Gat No.276, At Post Parandwadi, Near Somatne Phata, Tal- Maval Dist. Pune",
+        "region": "Pune",
+        "district": "Pune",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "617919110",
+            "course_name": "Civil Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "617924510",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "617924511T",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "617937210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "617937211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "617961210",
+            "course_name": "Mechanical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "617999510",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "617999511T",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

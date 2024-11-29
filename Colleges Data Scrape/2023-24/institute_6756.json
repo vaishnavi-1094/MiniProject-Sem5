@@ -1,0 +1,135 @@
+{
+    "institute_summary": {
+        "institute_code": "6756",
+        "institute_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+        "institute_address": "Pandharpur Road, Gat No.565/1, Sangola Tal. Sangola, Dist. Solapur 413307",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "675619110",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "675624210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "675624211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "675626310",
+            "course_name": "Artificial Intelligence (AI) and Data Science",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "675626311T",
+            "course_name": "Artificial Intelligence (AI) and Data Science",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "675629310",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "675629311T",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "675637210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "675637211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "675661210",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        }
+    ]
+}

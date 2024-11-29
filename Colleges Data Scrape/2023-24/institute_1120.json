@@ -1,0 +1,171 @@
+{
+    "institute_summary": {
+        "institute_code": "1120",
+        "institute_name": "Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",
+        "institute_address": "MIDC, Lohara, Amaravati Road, Yavatmal",
+        "region": "Amravati",
+        "district": "Yavatmal",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Linguistic Minority - Hindi",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "112019110",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112019111T",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "112024210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112024211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "112029310",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112029311T",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "112037210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "112037211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "112050710",
+            "course_name": "Chemical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "112061210",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "112061211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "112089310",
+            "course_name": "Textile Engineering / Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "112089311T",
+            "course_name": "Textile Engineering / Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        }
+    ]
+}

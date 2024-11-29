@@ -1,0 +1,123 @@
+{
+    "institute_summary": {
+        "institute_code": "6311",
+        "institute_name": "Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",
+        "institute_address": "Gut No. 720/1 & 2, Pune Nagar Road, Wagholi, Tal. Hawali Dist. Pune",
+        "region": "Pune",
+        "district": "Pune",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "631124510",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "631124511T",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "631124610",
+            "course_name": "Information Technology",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "631124611T",
+            "course_name": "Information Technology",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "631129310",
+            "course_name": "Electrical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "631129311T",
+            "course_name": "Electrical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "631137210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "631137211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "631161210",
+            "course_name": "Mechanical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "06265",
+        "institute_name": "Walchand Institute of Technology, Solapur",
+        "institute_address": "Solapur Seth Walchand Hirachand Marg, Ashok Chowk, P.B. No.634, Solapur",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Religious Minority - Jain",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0626519110",
+            "course_name": "Civil Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0626519111T",
+            "course_name": "Civil Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0626524210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0626524211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0626524610",
+            "course_name": "Information Technology",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0626524611T",
+            "course_name": "Information Technology",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0626537210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0626537211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0626561510",
+            "course_name": "Mechanical & Automation Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0626561511T",
+            "course_name": "Mechanical & Automation Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0626584410",
+            "course_name": "Electronics and Computer Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0626584411T",
+            "course_name": "Electronics and Computer Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Jain",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

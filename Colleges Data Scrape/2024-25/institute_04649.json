@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "04649",
+        "institute_name": "Bajaj Institute of Technology, Wardha",
+        "institute_address": "Arvi Road, in Front of Ramkrishna Bajaj Agriculture College, Pipri, Wardha",
+        "region": "Nagpur",
+        "district": "Wardha",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Linguistic Minority - Hindi",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0464919110",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0464919111T",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0464924510",
+            "course_name": "Computer Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0464924511T",
+            "course_name": "Computer Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0464929310",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0464929311T",
+            "course_name": "Electrical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0464961210",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0464961211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Linguistic Minority - Hindi",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

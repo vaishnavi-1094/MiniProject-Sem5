@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "6444",
+        "institute_name": "Shriram Institute Of Engineering & Technology, (Poly), Paniv",
+        "institute_address": "Paniv, Taluka Malshiras, Dist. Solapur 413113",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "644419110",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "644419111T",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "644424510",
+            "course_name": "Computer Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "644424511T",
+            "course_name": "Computer Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "644461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "644461211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Technological University,Lonere",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "02516",
+        "institute_name": "International Centre Of Excellence In Engineering and Management (ICEEM)",
+        "institute_address": "Gut No.4,Opp.Bajaj Auto ltd. Infront of MIDC filtration plant,Aurangabad-Pune High way",
+        "region": "Aurangabad",
+        "district": "Chhatrapati Sambhajinagar",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0251619110",
+            "course_name": "Civil Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0251624210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0251624211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0251629710",
+            "course_name": "Electrical and Electronics Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0251629711T",
+            "course_name": "Electrical and Electronics Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "0251661210",
+            "course_name": "Mechanical Engineering",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0251692110",
+            "course_name": "Artificial Intelligence and Machine Learning",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0251692111T",
+            "course_name": "Artificial Intelligence and Machine Learning",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "institute_summary": {
+        "institute_code": "01107",
+        "institute_name": "P. R. Pote Patil College of Engineering & Management, Amravati",
+        "institute_address": "Shri Gajanan Township ,Pote Estate, Kathora Road, Amravati",
+        "region": "Amravati",
+        "district": "Amravati",
+        "status": "Un-Aided",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0110719110",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0110719111T",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0110724210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0110724211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0110729310",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0110729311T",
+            "course_name": "Electrical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0110737210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0110737211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0110761210",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0110761211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0110791110",
+            "course_name": "Computer Science and Engineering(Artificial Intelligence and Machine Learning)",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0110791111T",
+            "course_name": "Computer Science and Engineering(Artificial Intelligence and Machine Learning)",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0110799510",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0110799511T",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        }
+    ]
+}

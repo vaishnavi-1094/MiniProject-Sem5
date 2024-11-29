@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "6007",
+        "institute_name": "Walchand College of Engineering, Sangli",
+        "institute_address": "Walchand College of Engineering, Vishram Bagh, Sangli",
+        "region": "Pune",
+        "district": "Sangli",
+        "status": "Government-Aided",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "600719110",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "600719111T",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "600724210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "90"
+        },
+        {
+            "choice_code": "600724211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "5"
+        },
+        {
+            "choice_code": "600724610",
+            "course_name": "Information Technology",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "600724611T",
+            "course_name": "Information Technology",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "600729310",
+            "course_name": "Electrical Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "600729311T",
+            "course_name": "Electrical Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "600737610",
+            "course_name": "Electronics Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "600737611T",
+            "course_name": "Electronics Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "600761210",
+            "course_name": "Mechanical Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "600761211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Shivaji University",
+            "status": "Government-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

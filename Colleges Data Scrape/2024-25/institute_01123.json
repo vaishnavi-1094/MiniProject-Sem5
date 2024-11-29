@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "01123",
+        "institute_name": "Dr.Rajendra Gode Institute of Technology & Research, Amravati",
+        "institute_address": "University Mardi Road, Opp. Heart Hospital, Amravati",
+        "region": "Amravati",
+        "district": "Amravati",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0112319110",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112319111T",
+            "course_name": "Civil Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0112324210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112324211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0112337210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112337211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0112361210",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0112361211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

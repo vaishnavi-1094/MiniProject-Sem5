@@ -1,0 +1,171 @@
+{
+    "institute_summary": {
+        "institute_code": "4005",
+        "institute_name": "Laxminarayan Institute of Technology, Nagpur",
+        "institute_address": "L.I.T.Premises, Opposite Bharatnagar, Amravati Road, Nagpur",
+        "region": "Nagpur",
+        "district": "Nagpur",
+        "status": "University Department",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "400550310",
+            "course_name": "Food Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "400550311T",
+            "course_name": "Food Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "400550710",
+            "course_name": "Chemical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "62"
+        },
+        {
+            "choice_code": "400550711T",
+            "course_name": "Chemical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "400551010",
+            "course_name": "Plastic and Polymer Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "11"
+        },
+        {
+            "choice_code": "400551011T",
+            "course_name": "Plastic and Polymer Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "400552410",
+            "course_name": "Paper and Pulp Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "11"
+        },
+        {
+            "choice_code": "400552810",
+            "course_name": "Petro Chemical Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "11"
+        },
+        {
+            "choice_code": "400552811T",
+            "course_name": "Petro Chemical Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "400552910",
+            "course_name": "Oil Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "11"
+        },
+        {
+            "choice_code": "400552911T",
+            "course_name": "Oil Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "400572910",
+            "course_name": "Surface Coating Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "14"
+        },
+        {
+            "choice_code": "400572911T",
+            "course_name": "Surface Coating Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        }
+    ]
+}

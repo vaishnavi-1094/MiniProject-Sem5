@@ -1,0 +1,75 @@
+{
+    "institute_summary": {
+        "institute_code": "05184",
+        "institute_name": "Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",
+        "institute_address": "At- Agaskhind, Post Shenit (Via Deolali Camp-Bhagur), Tal. Sinnar Dist. Nashik",
+        "region": "Nashik",
+        "district": "Nashik",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Religious Minority - Christian",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0518419110",
+            "course_name": "Civil Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "27"
+        },
+        {
+            "choice_code": "0518424510",
+            "course_name": "Computer Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "27"
+        },
+        {
+            "choice_code": "0518429310",
+            "course_name": "Electrical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0518437210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "27"
+        },
+        {
+            "choice_code": "0518461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Savitribai Phule Pune University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "27"
+        }
+    ]
+}

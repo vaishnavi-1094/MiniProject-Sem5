@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "3035",
+        "institute_name": "Usha Mittal Institute of Technology SNDT Women's University, Mumbai",
+        "institute_address": "SNDT Women's University, Mumbai Juhu Campus, Santacruz (W), Mumbai",
+        "region": "Mumbai",
+        "district": "Mumbai Suburban",
+        "status": "University Managed (Un-Aided)",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "303524550F",
+            "course_name": "Computer Engineering",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "303524551FT",
+            "course_name": "Computer Engineering",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "303524650F",
+            "course_name": "Information Technology",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "303524651FT",
+            "course_name": "Information Technology",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "303525450F",
+            "course_name": "Computer Science and Technology",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "303525451FT",
+            "course_name": "Computer Science and Technology",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "303537050F",
+            "course_name": "Electronics and Communication Engineering",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "303537051FT",
+            "course_name": "Electronics and Communication Engineering",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "303591750F",
+            "course_name": "Data Science",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "303591751FT",
+            "course_name": "Data Science",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "303599750F",
+            "course_name": "Artificial Intelligence",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "303599751FT",
+            "course_name": "Artificial Intelligence",
+            "university": "SNDT Women's University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        }
+    ]
+}

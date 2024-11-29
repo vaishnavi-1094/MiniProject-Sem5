@@ -1,0 +1,123 @@
+{
+    "institute_summary": {
+        "institute_code": "6028",
+        "institute_name": "Department of Technology, Shivaji University, Kolhapur",
+        "institute_address": "Vidyanagar, Kolhapur",
+        "region": "Pune",
+        "district": "Kolhapur",
+        "status": "University Department",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "602819110",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "602825410",
+            "course_name": "Computer Science and Technology",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "602825411T",
+            "course_name": "Computer Science and Technology",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "602837210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "602837211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "602850310",
+            "course_name": "Food Technology",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "602850311T",
+            "course_name": "Food Technology",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "602850710",
+            "course_name": "Chemical Engineering",
+            "university": "Shivaji University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "602861210",
+            "course_name": "Mechanical Engineering",
+            "university": "Shivaji University",
+            "status": "University Managed (Un-Aided)",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        }
+    ]
+}

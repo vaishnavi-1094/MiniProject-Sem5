@@ -1,0 +1,51 @@
+{
+    "institute_summary": {
+        "institute_code": "2021",
+        "institute_name": "University Department of Chemical Technology, Aurangabad",
+        "institute_address": "Dr. Babasaheb Ambedkar Marathwada University Campus, Aurangabad",
+        "region": "Aurangabad",
+        "district": "Aurangabad",
+        "status": "University Department",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "202150310",
+            "course_name": "Food Technology",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "10"
+        },
+        {
+            "choice_code": "202181610",
+            "course_name": "Pharmaceutical and Fine Chemical Technology",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "202181611T",
+            "course_name": "Pharmaceutical and Fine Chemical Technology",
+            "university": "Dr. Babasaheb Ambedkar Marathwada University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        }
+    ]
+}

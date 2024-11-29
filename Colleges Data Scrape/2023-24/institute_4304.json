@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "4304",
+        "institute_name": "Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",
+        "institute_address": "Mouje Sukhali (Gupchup), Tal. Hingna Dist. Nagpur",
+        "region": "Nagpur",
+        "district": "Nagpur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "430424550F",
+            "course_name": "Computer Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "430424551FT",
+            "course_name": "Computer Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "430437250F",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "430437251FT",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "430461250F",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "430461251FT",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Female",
+            "total_intake": "3"
+        }
+    ]
+}

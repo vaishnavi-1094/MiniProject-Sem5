@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "06901",
+        "institute_name": "MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",
+        "institute_address": "Latur Road, MIDC Jamgaon, Tal. Barshi, Dist. Solapur",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0690119110",
+            "course_name": "Civil Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0690124210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "90"
+        },
+        {
+            "choice_code": "0690124211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "5"
+        },
+        {
+            "choice_code": "0690137210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0690137211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0690161210",
+            "course_name": "Mechanical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0690184410",
+            "course_name": "Electronics and Computer Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0690184411T",
+            "course_name": "Electronics and Computer Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

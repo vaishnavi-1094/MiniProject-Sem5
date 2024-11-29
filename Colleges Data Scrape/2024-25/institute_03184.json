@@ -1,0 +1,111 @@
+{
+    "institute_summary": {
+        "institute_code": "03184",
+        "institute_name": "Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",
+        "institute_address": "Father Agnel Ashram , Band-stand, Bandra (West), Mumbai",
+        "region": "Mumbai",
+        "district": "Mumbai Suburban",
+        "status": "Un-Aided",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Religious Minority - Christian",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0318424210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0318424211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0318424510",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0318424511T",
+            "course_name": "Computer Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0318461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0318461211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0318490010",
+            "course_name": "Electronics and Computer Science",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0318490011T",
+            "course_name": "Electronics and Computer Science",
+            "university": "Mumbai University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Religious Minority - Christian",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "institute_summary": {
+        "institute_code": "2032",
+        "institute_name": "Institute of Chemical Technology, Mumbai Marathwada off campus, Jalna",
+        "institute_address": "M/s Beej Sheetal Innovations Centre Pvt. Ltd, BT-5 Biotechnology Park, Jalna Industrial Area MIDC, Additional MIDC, Aurangabad Road, Jalna",
+        "region": "Aurangabad",
+        "district": "Jalna",
+        "status": "University Managed",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": "5-year Integrated M. Tech. in Chemical Engineering with 24 months of industrial internships, post-HSC."
+    },
+    "course_details": [
+        {
+            "choice_code": "203290410",
+            "course_name": "Chemical Engineering",
+            "university": "Deemed to be University",
+            "status": "University Managed",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "203290411T",
+            "course_name": "Chemical Engineering",
+            "university": "Deemed to be University",
+            "status": "University Managed",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

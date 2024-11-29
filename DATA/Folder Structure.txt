@@ -1,0 +1,125 @@
+CET_PROJECT
+
+-- DATA
+	--2019-20
+		-- SEATMATRIX_{YEAR}.pdf
+		-- CUTOFF_{MH/AI}_CAP{1/2/3}_{YEAR}.pdf
+	--2020-21
+	--2021-22
+	--2022-23
+	--2023-24
+	--2024-25
+
+
+FACTOR AFFFECT/PARAMETERS--
+   --CET SCORE
+   --JEE SCORE
+   --COLLEGE REVIEW/RATING		
+   --PLACEMENTS
+   --PREFERRED CATEGORY
+   	           --OPEN
+	           --HOME UNIVERCITY
+	           --OTHER THAN HOME UNIVERCITY
+	           --RESERVED CATEGORY
+    --PREFERRED BRANCHES
+    --PREFERRED COLLEGES
+    --SEATS
+    
+
+
+Scraping colleges details from cet website : 
+
+1. Go to webpage ::: https://fe2024.mahacet.org/StaticPages/frmInstituteList?did=1884
+2. Find the element with xpath :::: /html/body/form/div[3]/div[2]/main/div[3]/div/div[2]/div/div/table    OR with selector ::: #rightContainer_ContentTable1_gvInstituteList
+3. In that table we have a tag named tbody in which we have list of tr tags each representing a college   example of a row is this ::: <tr>
+						<td class="Header" align="center" style="width:7%;">1.</td><td class="Item" align="center" style="width:7%;"><a href="frmInstituteSummary.aspx?InstituteCode=01002">01002</a></td><td class="Item" align="left" style="width:65%;">Government College of Engineering, Amravati</td><td class="Item" align="center" style="width:14%;">Government, Autonomous</td><td class="Item" align="center" style="width:7%;">390</td>
+					</tr>
+
+4. In each row we have an anchor tag of selector for example of 1 st row :::: #rightContainer_ContentTable1_gvInstituteList > tbody > tr:nth-child(2) > td:nth-child(2) > a
+5. We have to click on it which will take us to a new page
+6. where we have to find element of this xpath :::: /html/body/form/div[3]/div[2]/main/div[3] or with class rightContainer1
+7. and then use this function to save it to a json file  :::::
+
+	
+		import json
+from selenium.webdriver.common.by import By
+
+def extract_and_save_institute_data(container_element, filename=None):
+    """
+    Extracts data from the given 'rightContainer1' div element and saves it as a JSON file.
+    
+    :param container_element: Selenium WebElement representing the 'rightContainer1' div.
+    :param filename: Optional custom filename for the JSON file. If not provided, the institute code will be used.
+    """
+    
+    # Locate the 'Institute Summary' fields within the container
+    institute_code = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblInstituteCode').text
+    institute_name = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblInstituteName').text
+    institute_address = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblInstituteAddress').text
+    region = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblRegion').text
+    district = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblDistrict').text
+    status = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblStatus1').text
+    autonomy_status = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblStatus2').text
+    minority_status = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblStatus3').text
+    public_remark = container_element.find_element(By.ID, 'rightContainer_ContentBox1_lblPublicRemark').text
+
+    # Locate the 'Course Details' table and extract data row by row
+    course_details = []
+    rows = container_element.find_elements(By.XPATH, ".//table[@id='rightContainer_ContentBox7_gvChoiceCodeList']//tr")[1:]  # Skip header row
+
+    for row in rows:
+        columns = row.find_elements(By.TAG_NAME, "td")
+        course = {
+            "choice_code": columns[0].text,
+            "course_name": columns[1].text,
+            "university": columns[2].text,
+            "status": columns[3].text,
+            "autonomy_status": columns[4].text,
+            "minority_status": columns[5].text,
+            "shift": columns[6].text,
+            "accreditation": columns[7].text,
+            "gender": columns[8].text,
+            "total_intake": columns[9].text
+        }
+        course_details.append(course)
+
+    # Create a dictionary structure for the JSON data
+    data = {
+        "institute_summary": {
+            "institute_code": institute_code,
+            "institute_name": institute_name,
+            "institute_address": institute_address,
+            "region": region,
+            "district": district,
+            "status": status,
+            "autonomy_status": autonomy_status,
+            "minority_status": minority_status,
+            "public_remark": public_remark
+        },
+        "course_details": course_details
+    }
+
+    # If filename is not provided, use institute code as filename
+    if not filename:
+        filename = f"institute_{institute_code}.json"
+
+    # Save the data to a JSON file
+    with open(filename, 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+
+    print(f"Data has been saved to {filename}")
+
+
+
+
+
+8. go back to previous page and then repeat same process for next element/ row in the table
+
+
+
+/html/body/form/div[3]/div[2]/main/div[3]/div/div[2]/div/div/table/tbody/tr[38]/td[2]/a
+/html/body/form/div[3]/div[2]/main/div[3]/div/div[2]/div/div/table/tbody/tr[36]/td[2]/a
+
+
+
+

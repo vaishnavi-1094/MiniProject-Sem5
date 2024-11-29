@@ -1,0 +1,135 @@
+{
+    "institute_summary": {
+        "institute_code": "04144",
+        "institute_name": "Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",
+        "institute_address": "Sr. No.13/2, Mahurzari, Katol Road, Taluka & Dist Nagpur",
+        "region": "Nagpur",
+        "district": "Nagpur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0414419110",
+            "course_name": "Civil Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0414419111T",
+            "course_name": "Civil Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0414424210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0414424211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0414424610",
+            "course_name": "Information Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0414424611T",
+            "course_name": "Information Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0414429310",
+            "course_name": "Electrical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0414429311T",
+            "course_name": "Electrical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0414461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0414461211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

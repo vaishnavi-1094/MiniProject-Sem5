@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "04104",
+        "institute_name": "Kavi Kulguru Institute of Technology & Science, Ramtek",
+        "institute_address": "K. K. Nagar, Ramtek, Nagpur - 441 106",
+        "region": "Nagpur",
+        "district": "Nagpur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0410419110",
+            "course_name": "Civil Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0410419111T",
+            "course_name": "Civil Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0410424610",
+            "course_name": "Information Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0410424611T",
+            "course_name": "Information Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0410425110",
+            "course_name": "Computer Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "90"
+        },
+        {
+            "choice_code": "0410425111T",
+            "course_name": "Computer Technology",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "5"
+        },
+        {
+            "choice_code": "0410429310",
+            "course_name": "Electrical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0410429311T",
+            "course_name": "Electrical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0410437010",
+            "course_name": "Electronics and Communication Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0410437011T",
+            "course_name": "Electronics and Communication Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0410461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0410461211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

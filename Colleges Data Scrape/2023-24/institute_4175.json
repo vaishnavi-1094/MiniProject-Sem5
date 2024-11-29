@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "4175",
+        "institute_name": "JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",
+        "institute_address": "Agnihotri College Campus, Bapujiwadi, Ramnagar, Wardha",
+        "region": "Nagpur",
+        "district": "Wardha",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "417519110",
+            "course_name": "Civil Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "417524210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "417524211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "417537210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "417537211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "417561210",
+            "course_name": "Mechanical Engineering",
+            "university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        }
+    ]
+}

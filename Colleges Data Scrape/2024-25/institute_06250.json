@@ -1,0 +1,183 @@
+{
+    "institute_summary": {
+        "institute_code": "06250",
+        "institute_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+        "institute_address": "Kasaba Bavada,Taluka Karveer,Kolhapur",
+        "region": "Pune",
+        "district": "Kolhapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0625019110",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0625019111T",
+            "course_name": "Civil Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0625024210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "360"
+        },
+        {
+            "choice_code": "0625024211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "18"
+        },
+        {
+            "choice_code": "0625037210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0625037211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0625050710",
+            "course_name": "Chemical Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0625050711T",
+            "course_name": "Chemical Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0625061210",
+            "course_name": "Mechanical Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0625061211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0625091110",
+            "course_name": "Computer Science and Engineering(Artificial Intelligence and Machine Learning)",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0625091111T",
+            "course_name": "Computer Science and Engineering(Artificial Intelligence and Machine Learning)",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        },
+        {
+            "choice_code": "0625091210",
+            "course_name": "Computer Science and Engineering(Data Science)",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "180"
+        },
+        {
+            "choice_code": "0625091211T",
+            "course_name": "Computer Science and Engineering(Data Science)",
+            "university": "Shivaji University",
+            "status": "Un-Aided",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "9"
+        }
+    ]
+}

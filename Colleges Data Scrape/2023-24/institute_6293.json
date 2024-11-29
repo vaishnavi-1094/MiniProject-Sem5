@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "6293",
+        "institute_name": "Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistan's Bramhadevdada Mane Institute of Technology, Solapur",
+        "institute_address": "Gat No.137, Solapur-Manglwedha-Kolhapur Highway,Taluka: North Solapur, Belati Solapur",
+        "region": "Pune",
+        "district": "Solapur",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "629324210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "629324211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "629329310",
+            "course_name": "Electrical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "629337210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "629337211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "629361210",
+            "course_name": "Mechanical Engineering",
+            "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        }
+    ]
+}

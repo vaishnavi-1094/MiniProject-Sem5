@@ -1,0 +1,159 @@
+{
+    "institute_summary": {
+        "institute_code": "04004",
+        "institute_name": "Government College of Engineering, Chandrapur",
+        "institute_address": "Ballarsha Bypass Road,Chandrapur",
+        "region": "Nagpur",
+        "district": "Chandrapur",
+        "status": "Government",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0400419110",
+            "course_name": "Civil Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0400419111T",
+            "course_name": "Civil Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0400424210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0400424211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0400429310",
+            "course_name": "Electrical Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0400429311T",
+            "course_name": "Electrical Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0400437210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0400437211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0400446610",
+            "course_name": "Instrumentation Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0400446611T",
+            "course_name": "Instrumentation Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "2"
+        },
+        {
+            "choice_code": "0400461210",
+            "course_name": "Mechanical Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0400461211T",
+            "course_name": "Mechanical Engineering",
+            "university": "Gondwana University",
+            "status": "Government",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

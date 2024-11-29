@@ -1,0 +1,99 @@
+{
+    "institute_summary": {
+        "institute_code": "05381",
+        "institute_name": "Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",
+        "institute_address": "At Post Dondaicha, Dist. Dhule",
+        "region": "Nashik",
+        "district": "Dhule",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0538119110",
+            "course_name": "Civil Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0538124210",
+            "course_name": "Computer Science and Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0538124211T",
+            "course_name": "Computer Science and Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0538129310",
+            "course_name": "Electrical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0538161210",
+            "course_name": "Mechanical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0538199510",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0538199511T",
+            "course_name": "Artificial Intelligence and Data Science",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        }
+    ]
+}

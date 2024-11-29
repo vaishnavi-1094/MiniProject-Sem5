@@ -1,0 +1,183 @@
+{
+    "institute_summary": {
+        "institute_code": "14005",
+        "institute_name": "Laxminarayan Innovation Technological University, Nagpur",
+        "institute_address": "L.I.T.Premises, Opposite Bharatnagar, Amravati Road, Nagpur",
+        "region": "Nagpur",
+        "district": "Nagpur",
+        "status": "University",
+        "autonomy_status": "Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "1400550110",
+            "course_name": "Plastic and Polymer Engineering",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "1400550111T",
+            "course_name": "Plastic and Polymer Engineering",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "1400550310",
+            "course_name": "Food Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "1400550311T",
+            "course_name": "Food Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "1400550710",
+            "course_name": "Chemical Engineering",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "75"
+        },
+        {
+            "choice_code": "1400550711T",
+            "course_name": "Chemical Engineering",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "4"
+        },
+        {
+            "choice_code": "1400552410",
+            "course_name": "Paper and Pulp Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "1400552411T",
+            "course_name": "Paper and Pulp Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "1400552710",
+            "course_name": "Petro Chemical Engineering",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "1400552711T",
+            "course_name": "Petro Chemical Engineering",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "1400552910",
+            "course_name": "Oil Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "12"
+        },
+        {
+            "choice_code": "1400552911T",
+            "course_name": "Oil Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "1400572910",
+            "course_name": "Surface Coating Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "1400572911T",
+            "course_name": "Surface Coating Technology",
+            "university": "Unitary Public University of Government of Maharashtra",
+            "status": "University",
+            "autonomy_status": "Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        }
+    ]
+}

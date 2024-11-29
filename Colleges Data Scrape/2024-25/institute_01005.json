@@ -1,0 +1,87 @@
+{
+    "institute_summary": {
+        "institute_code": "01005",
+        "institute_name": "Sant Gadge Baba Amravati University,Amravati",
+        "institute_address": "SGB Amravati University, Near Tapowan, Amravati",
+        "region": "Amravati",
+        "district": "Amravati",
+        "status": "University Department",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0100550310",
+            "course_name": "Food Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0100551710",
+            "course_name": "Oil and Paints Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0100551711T",
+            "course_name": "Oil and Paints Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        },
+        {
+            "choice_code": "0100552410",
+            "course_name": "Paper and Pulp Technology",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0100552710",
+            "course_name": "Petro Chemical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "15"
+        },
+        {
+            "choice_code": "0100552711T",
+            "course_name": "Petro Chemical Engineering",
+            "university": "Sant Gadge Baba Amravati University",
+            "status": "University Department",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "1"
+        }
+    ]
+}

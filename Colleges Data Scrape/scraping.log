@@ -1,0 +1,57 @@
+2024-09-05 23:52:23,417 - INFO - ====== WebDriver manager ======
+2024-09-05 23:52:24,255 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-05 23:52:24,472 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-05 23:52:24,587 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-05 23:57:13,996 - INFO - ====== WebDriver manager ======
+2024-09-05 23:57:14,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-05 23:57:14,943 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-05 23:57:15,067 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:02:20,003 - INFO - ====== WebDriver manager ======
+2024-09-06 00:02:20,805 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:02:20,922 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:02:21,054 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:02:21,328 - INFO - WebDriver version 128.0.6613.119 selected
+2024-09-06 00:02:21,330 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.119/win32/chromedriver-win32.zip
+2024-09-06 00:02:21,330 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.119/win32/chromedriver-win32.zip
+2024-09-06 00:02:21,566 - INFO - Driver downloading response is 200
+2024-09-06 00:02:21,921 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:02:22,153 - INFO - Driver has been saved in cache [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119]
+2024-09-06 00:05:00,227 - INFO - ====== WebDriver manager ======
+2024-09-06 00:05:00,964 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:05:01,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:05:01,262 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:07:14,277 - INFO - ====== WebDriver manager ======
+2024-09-06 00:07:15,074 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:07:15,277 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:07:15,426 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:07:46,006 - INFO - ====== WebDriver manager ======
+2024-09-06 00:07:46,750 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:07:46,967 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:07:47,103 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:10:20,088 - INFO - ====== WebDriver manager ======
+2024-09-06 00:10:20,874 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:10:21,108 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:10:21,331 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:11:35,423 - INFO - ====== WebDriver manager ======
+2024-09-06 00:11:36,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:11:36,381 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:11:36,515 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:15:16,334 - INFO - ====== WebDriver manager ======
+2024-09-06 00:15:17,136 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:15:17,307 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:15:17,425 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:16:59,292 - INFO - ====== WebDriver manager ======
+2024-09-06 00:17:00,066 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:17:00,309 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:17:00,517 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:41:55,481 - INFO - ====== WebDriver manager ======
+2024-09-06 00:41:56,320 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:41:56,532 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:41:56,670 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-06 00:42:21,085 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDB57A69F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2fc334f097f2af28ba90a05e1a9dd8ae/url
+2024-09-06 00:42:25,152 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDB57A6FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2fc334f097f2af28ba90a05e1a9dd8ae/url
+2024-09-06 00:42:29,213 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDB57A6060>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2fc334f097f2af28ba90a05e1a9dd8ae/url
+2024-09-06 00:43:02,630 - INFO - ====== WebDriver manager ======
+2024-09-06 00:43:03,404 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:43:03,550 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-06 00:43:03,723 - INFO - Driver [C:\Users\Rohit Rathod\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache

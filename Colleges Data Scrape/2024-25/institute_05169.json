@@ -1,0 +1,99 @@
+{
+    "institute_summary": {
+        "institute_code": "05169",
+        "institute_name": "Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",
+        "institute_address": "Nagaon At Post. Nagaon, Tal&Dist. Dhule",
+        "region": "Nashik",
+        "district": "Dhule",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Non-Minority",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "0516919110",
+            "course_name": "Civil Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "0516924510",
+            "course_name": "Computer Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "120"
+        },
+        {
+            "choice_code": "0516924511T",
+            "course_name": "Computer Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "6"
+        },
+        {
+            "choice_code": "0516929310",
+            "course_name": "Electrical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0516937210",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "0516937211T",
+            "course_name": "Electronics and Telecommunication Engg",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "3"
+        },
+        {
+            "choice_code": "0516961210",
+            "course_name": "Mechanical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Non-Minority",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        }
+    ]
+}

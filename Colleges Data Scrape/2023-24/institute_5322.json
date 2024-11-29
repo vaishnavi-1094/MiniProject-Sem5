@@ -1,0 +1,51 @@
+{
+    "institute_summary": {
+        "institute_code": "5322",
+        "institute_name": "Jamia Institute Of Engineering And Management Studies, Akkalkuwa",
+        "institute_address": "Molgi Road Near Amlibari Fata Akkalkuwa, Nandurbar",
+        "region": "Nashik",
+        "district": "Nandurbar",
+        "status": "Un-Aided",
+        "autonomy_status": "Non-Autonomous",
+        "minority_status": "Religious Minority - Muslim",
+        "public_remark": ""
+    },
+    "course_details": [
+        {
+            "choice_code": "532219110",
+            "course_name": "Civil Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Muslim",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "60"
+        },
+        {
+            "choice_code": "532229310",
+            "course_name": "Electrical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Muslim",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        },
+        {
+            "choice_code": "532261210",
+            "course_name": "Mechanical Engineering",
+            "university": "Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+            "status": "Un-Aided",
+            "autonomy_status": "Non-Autonomous",
+            "minority_status": "Religious Minority - Muslim",
+            "shift": "General Shift",
+            "accreditation": "-",
+            "gender": "Co-Education",
+            "total_intake": "30"
+        }
+    ]
+}
